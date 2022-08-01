@@ -16,5 +16,3 @@ Step 2 : Write this command in your root directory
 docker-compose up
 
 It will ready your local environment..
-
-Good luck
